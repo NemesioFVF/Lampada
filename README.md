@@ -2,4 +2,4 @@
 
 <p> - Fiz apenas para treinar o CSS... </p>
 
-<img src="https://github.com/NemesioFVF/Lampada/blob/main/Lampada/GIF%2007-11-2021%2011-46-22.gif?raw=true" width="600" height="400" />
+<img src="https://github.com/NemesioFVF/Lampada/blob/main/Lampada/GIF%2007-11-2021%2011-46-22.gif?raw=true" width="800" height="400" />
